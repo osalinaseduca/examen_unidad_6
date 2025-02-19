@@ -3,7 +3,7 @@ site_url: https://osalinaseduca.github.io/examen_unidad_6/
 docs_dir: 'docs_src'
 site_dir: 'docs'
 nav:
-  - Inicio: inicio.md
+  - home: inicio.md
   - Guia de instalación Windows 11: Guía_de_instalación_windows.md
   - Especificaciones tecnicas Iphone 16: Especificaciones.md
   - Descargas:
