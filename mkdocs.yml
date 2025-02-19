@@ -1,5 +1,5 @@
 site_name: Documentación con mkdocs y GitHub
-site_url: https://osalinaseduca.github.io/Documentacion_Proyecto/
+site_url: https://osalinaseduca.github.io/examen_unidad_6/
 docs_dir: 'docs_src'
 site_dir: 'docs'
 nav:
