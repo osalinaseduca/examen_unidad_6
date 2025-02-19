@@ -2,7 +2,6 @@ site_name: Examen
 site_url: https://osalinaseduca.github.io/examen_unidad_6/
 docs_dir: 'docs_src'
 site_dir: 'docs'
-Inicio: inicio.md
 nav:
   - Inicio: inicio.md
   - Guia de instalación Windows 11: Guía_de_instalación_windows.md
