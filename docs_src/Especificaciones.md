@@ -152,8 +152,8 @@ Reconocimiento facial mediante la cámara TrueDepth
 
 ## Seguridad
 
-- Emergencia SOS vía satélite<sup>4</sup>
-- Detección de accidentes<sup>5</sup>
+- Emergencia SOS vía satélite
+- Detección de accidentes
 
 **Redes móviles e inalámbricas**
 
@@ -168,11 +168,11 @@ Modelo A3287 * Modelo A3290 *
 
 **Todos los modelos**
 
-- 5G (sub6 GHz) con MIMO 4x4<sup>6</sup>
-- LTE Gigabit con MIMO 4x4 y LAA<sup>6</sup>
-- WiFi 7 con MIMO 2x2<sup>7</sup>
+- 5G (sub6 GHz) con MIMO 4x4
+- LTE Gigabit con MIMO 4x4 y LAA
+- WiFi 7 con MIMO 2x2
 - Bluetooth 5.3
-- Chip de banda ultraancha de segunda generación<sup>8</sup>
+- Chip de banda ultraancha de segunda generación
 - Tecnología de red Thread
 - NFC con modo de lectura
 - Tarjetas exprés con reserva de batería
@@ -201,8 +201,8 @@ Para obtener más información sobre la compatibilidad con redes 5G y LTE, pon
 **Llamadas de voz**
 
 - Llamadas de voz FaceTime
-- Voz por LTE (VoLTE)<sup>6</sup>
-- Llamadas vía wifi<sup>6</sup>
+- Voz por LTE (VoLTE)
+- Llamadas vía wifi
 - SharePlay en llamadas FaceTime para disfrutar de películas, series, música y apps en compañía
 - Pantalla compartida
 - Audio espacial
@@ -392,7 +392,7 @@ Tipos de documento visibles
 ## Requisitos del sistema
 
 - Cuenta de Apple (para algunas prestaciones)
-- Acceso a internet<sup>15</sup>
+- Acceso a internet
 - La sincronización con un Mac o PC requiere:
 - macOS Catalina 10.15 o posterior con el Finder
 - De macOS High Sierra 10.13 a macOS Mojave 10.14.6 con iTunes 12.8 o posterior
