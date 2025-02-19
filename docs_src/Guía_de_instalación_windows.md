@@ -1,5 +1,7 @@
 ﻿# Guía Completa para la Instalación de Windows 11
 
+![Windows](../docs/img/e.png)
+
 La llegada de Windows 11 ha sido uno de los lanzamientos más esperados por los usuarios de computadoras de todo el mundo. Este nuevo sistema operativo promete una experiencia más fluida, más intuitiva y segura para los usuarios. Sin embargo, muchos de ellos se preguntan sobre cómo instalarlo en su equipo y cómo sacarle el máximo provecho. Si eres uno de ellos, estás en el lugar correcto. En esta guía completa para la instalación de Windows 11, te proporcionaremos todos los pasos y consejos que necesitas para instalar este nuevo sistema operativo en tu computadora. Desde los requisitos de hardware hasta la configuración básica, pasando por la personalización y las actualizaciones, te mostraremos todo lo que necesitas saber para aprovechar al máximo Windows 11. ¡Sigue leyendo y descubre todo lo que necesitas saber!
 
 ## Guía completa: Instalación de Windows 11 en sólo unos pasos

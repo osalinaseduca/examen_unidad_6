@@ -80,7 +80,7 @@ Calificación IP68 según la norma IEC 60529 (hasta 6 metros de profundidad
 - Gama cromática amplia para fotos y Live Photos
 - Corrección del objetivo (ultra gran angular)
 - Corrección avanzada de ojos rojos
-- Estabilización automática de imagen
+- Estabilización automática de imagen
 - Modo ráfaga
 - Geoetiquetado de fotos
 - Captura de imagen en formato HEIF y JPEG
@@ -92,17 +92,17 @@ Calificación IP68 según la norma IEC 60529 (hasta 6 metros de profundidad
 - Grabación de vídeo en 720p a 30 f/s con Dolby Vision
 - Modo Cine hasta 4K HDR a 30 f/s
 - Modo Acción hasta 2,8K a 60 f/s
-- Grabación de vídeo macro, a cámara lenta y en timelapse
+- Grabación de vídeo macro, a cámara lenta y en timelapse
 - Vídeo a cámara lenta en 1080p a 120 o 240 f/s
 - Grabación de vídeo espacial en 1080p a 30 f/s
-- Vídeo en timelapse con estabilización
+- Vídeo en timelapse con estabilización
 - Time-lapse con modo Noche
 - Vídeo QuickTake hasta 4K a 60 f/s con Dolby Vision
-- Estabilización óptica de imagen por desplazamiento del sensor para vídeo (cámara Fusion)
+- Estabilización óptica de imagen por desplazamiento del sensor para vídeo (cámara Fusion)
 - Zoom digital hasta x6
 - Zoom de audio
 - Flash True Tone
-- Estabilización de vídeo con calidad de cine (4K, 1080p y 720p)
+- Estabilización de vídeo con calidad de cine (4K, 1080p y 720p)
 - Enfoque automático continuo
 - Opción de sacar fotos de 8 Mpx durante la grabación de vídeo en 4K
 - Reproducción con zoom
@@ -220,6 +220,8 @@ Para obtener más información sobre la compatibilidad con redes 5G y LTE, pon
 - HDR con Dolby Vision, HDR10+/HDR10 y HLG
 - AirPlay hasta 4K HDR para duplicación de pantalla y salida de fotos y vídeo a través del Apple TV (2.ª generación o posterior) o de un televisor inteligente con AirPlay
 - Compatibilidad con vídeo en espejo y salida de vídeo: hasta 4K HDR a través de la salida nativa DisplayPort mediante USB-C o del adaptador de USB-C a AV digital (modelo A2119; el adaptador se vende por separado)
+![imagen frontal](../docs/img/ip16.png)
+![imagen frontal](../docs/img/ip162.png)
 
 **Siri**
 
