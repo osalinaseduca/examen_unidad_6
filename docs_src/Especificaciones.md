@@ -18,7 +18,7 @@ Diseño de aluminio, Parte delantera con Ceramic Shield de última generaci�
 - 256 GB
 - 512 GB
 
-## Dimensiones y peso<sup>2</sup>
+## Dimensiones y peso
 
 - Ancho: 7,16 cm
 - Alto: 14,76 cm

@@ -7,8 +7,8 @@ nav:
   - Guia de instalación Windows 11: Guía_de_instalación_windows.md
   - Especificaciones tecnicas Iphone 16: Especificaciones.md
   - Descargas:
-      - Guia de instalación Windows 11 PDF: Guía_de_instalación_windows/Guía_de_instalación_windows.md
-      - Especificaciones tecnicas Iphone 16 PDF: Guía_de_instalación_windows/Guía_de_instalación_windows.md
+      - Guia de instalación Windows 11 PDF: Guía_de_instalación_windows/Guía_de_instalación_windows.pdf
+      - Especificaciones tecnicas Iphone 16 PDF: Especificaciones/Especificaciones.pdf
   
 theme:  readthedocs
 
