@@ -220,8 +220,8 @@ Para obtener más información sobre la compatibilidad con redes 5G y LTE, pon
 - HDR con Dolby Vision, HDR10+/HDR10 y HLG
 - AirPlay hasta 4K HDR para duplicación de pantalla y salida de fotos y vídeo a través del Apple TV (2.ª generación o posterior) o de un televisor inteligente con AirPlay
 - Compatibilidad con vídeo en espejo y salida de vídeo: hasta 4K HDR a través de la salida nativa DisplayPort mediante USB-C o del adaptador de USB-C a AV digital (modelo A2119; el adaptador se vende por separado)
-![imagen frontal](../docs/img/ip16.png)
-![imagen frontal](../docs/img/ip162.png)
+![imagen frontal](../img/ip16.png)
+![imagen frontal](../img/ip162.png)
 
 **Siri**
 
